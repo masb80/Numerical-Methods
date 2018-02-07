@@ -1,3 +1,6 @@
+// compile: mpicc seidel_mpi.c -o seidel -lm
+// Run: mpirun -np 4 ./seidel
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
