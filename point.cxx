@@ -73,7 +73,7 @@ cout << "x = " << x << ", y = " << y << ", z = " << z << endl;
   foo = goo + 3;
   goo = foo + 4;
   foo = goo + 3;
-  goo = foo;
+  goo = foo; // er portheke foo change hole goo o change hoye jay
  }
  int main()
  {
